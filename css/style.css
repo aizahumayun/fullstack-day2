@@ -1,3 +1,31 @@
 h1{
     color: aqua;
 }
+header{
+    background-color: burlywood;
+}
+nav{
+    height: fit-content;
+    background-color: aqua;
+}
+main{
+    background-color: chocolate;
+}
+footer{
+    width: 100%;
+    background-color: aquamarine;
+    color: burlywood;
+}
+p#main{
+height: 22vh;
+background-color: rgba(128, 255, 0, 0.671);
+}
+div{
+    background-color: #0E5834;
+    border-radius: 10px;
+    padding: 4px;
+    margin: 10px;
+}
+#username{
+    margin-bottom: 15px;
+}
